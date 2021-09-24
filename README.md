@@ -10,9 +10,9 @@
 
 ### 2. Description:
 The main goal is to classify if a patient has pneumonia from a X-Ray image of his/her chest using Convolutional Neural Networks (CNN) implemented with the Pytorch library. The dataset was obtained from Kaggle at https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia. 
-
+<p align="center">
 <img src="CHEST_X_RAY.png" width="40%">
-
+</p>
 
 We used a transfer learning approach because of the following reasons:
 <ol>
@@ -54,7 +54,9 @@ We also used different learning rates such as :
         <li>We got an accuracy for the validation set of 83.80%</li>
     </ul>
     <li>The confusion matrix of the test data with the best model is the following:</li> <!--vv [[106, 28], [16, 274]]-->
-    <img src="CONFUSION_MATRIX.PNG" width="30%">
+    <p align="center">
+        <img src="CONFUSION_MATRIX.PNG" width="30%">
+    </p>
     <br>
     <li> This means that from all 424 chest x-ray images of the test data:</li>
     <ul>
