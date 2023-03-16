@@ -3,7 +3,7 @@
 <ul>
     <li>Isaac Neri Gomez Sarmiento (isaacneri.gs@gmail.com)</li>
     <li>Deniz Soysal (deniz-soysal@hotmail.com)</li>
-    <li>Stéphane Voyer-Boutet (SVoyer@gmail.com)</li>
+    <li>Stéphane Voyer-Boutet (sv-xray-pneumonia.zt1ln@slmail.me)</li>
     <li>Florian Philippe (florian.philippe.47@gmail.com)</li>
     </ul>
 <b>Note:</b> <p> This is our final project for the course Introduction to Machine Learning (GIF-4101) at Laval University, taken in the automn session 2019. Some code for this project was taken from our Homework 4 of the same course. Some parts of the code and/or the results are in French.</p> <br>
